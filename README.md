@@ -43,8 +43,11 @@ Here are some ideas to get you started:
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/office.svg" alt="Office" width="40" height="40" />&nbsp;
 </p><br>
 
+
 <!--GitHub Section-->
+<!--
 ### GitHub статистика:
 
 <a href="http://www.github.com/koryakovda"><img src="https://github-readme-stats.vercel.app/api?username=koryakovda&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KoriakovDmitrii's GitHub stats" /></a>
 
+-->
