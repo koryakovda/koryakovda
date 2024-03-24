@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 <img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/intro.gif" width="30%" align="right">
 Я начинающий DS|ML инженер. Мой путь в it начался с огромного интереса к направлению ML когда я впервые наткнулся на курсы coursera для data scientist'ов, где я и прошел первое, вводное знакомство. После знакомства я сразу же решил, что это безумно интересно и моментально записался на курсы онлайн-университета GeekBrains. Совмещать работу и очень интенсивную учебу в конце курса оказалось очень непростым заданием и я сошел с дистанции спустя полтора года обучения. Далее был промежуток в 4-5 месяцев, когда я продолжил работать по специальности (нефтегазовое дело). Но спустя это время решил что ML - это всетаки то чем бы я хотел дальше заниматься в жизни и снове решил пройти курсы, но на этот раз уже без оправданий и сменить работу. Так с августа 2023 года по март 2024 я изучал курс Start ML на Karpov Cources. В настоящий момент мое обучение на курсе завершено и я ищу свою первую работу!
 
-Моя мечта — это создавать решения на основе искусственного интеллекта, которые будут решать важные проблемы людей по всему миру и упрощать повседневную жизнь.
-
 - :brain:  Проходил курсы онлайн-университета GeekBrains по специальности DataScientist
 
 - :seedling: Закончил курсы StartML от платформы KarpovCources
@@ -38,11 +36,10 @@ Here are some ideas to get you started:
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pandas.svg" alt="Pandas" width="40" height="40" />&nbsp;	
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pytorch.png" alt="PyTorch" width="110" height="35" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/scikit-learn.svg" alt="Scikit Learn" width="60" height="40" />&nbsp;
-  <img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" />&nbsp;
+ 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/jupyter.png" alt="Jupyter" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/office.svg" alt="Office" width="40" height="40" />&nbsp;
 </p><br>
-
 
 <!--GitHub Section-->
 <!--
