@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <!--Skills Section-->
 ### Технологии
 <p align="left">
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/python.svg" alt="python" width="40" height="40" />&nbsp;
+	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/python-logo.png" alt="python" width="40" height="40" />&nbsp;
 	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/git.svg" alt="Git" width="40" height="40" />&nbsp;
 	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/numpy.svg" alt="Numpy" width="40" height="40" />&nbsp;
 	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/pandas.svg" alt="Pandas" width="40" height="40" />&nbsp;	
@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/scikit learn.png" alt="Scikit Learn" width="60" height="40" />&nbsp;
  	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" />&nbsp;
 	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/jupyter.png" alt="Jupyter" width="40" height="40" />&nbsp;
-	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/office.svg" alt="Office" width="40" height="40" />&nbsp;
+	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/airflow_transparent.png" alt="Airflow" width="40" height="40" />&nbsp;
+	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/docker-mark-blue.svg" alt="Docker" width="40" height="40" />&nbsp;
 </p><br>
 
 <!--GitHub Section-->
