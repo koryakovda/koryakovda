@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 ### Технологии
 <p align="left">
 	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/python-logo.png" alt="python" width="40" height="40" />&nbsp;
+	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/mysql.png" alt="Sql" width="40" height="40" />&nbsp;
 	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/git.svg" alt="Git" width="40" height="40" />&nbsp;
 	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/numpy.svg" alt="Numpy" width="40" height="40" />&nbsp;
 	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/pandas.svg" alt="Pandas" width="40" height="40" />&nbsp;	
