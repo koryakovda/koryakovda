@@ -43,6 +43,11 @@ Here are some ideas to get you started:
 	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/docker-mark-blue.svg" alt="Docker" width="40" height="40" />&nbsp;
 </p><br>
 
+<p align="left">
+	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/StartML KC.jpg" alt="StartML" width="419" height="296" />
+
+Сертификат доступен по ссылке https://lab.karpov.courses/certificate/7d067bd1-25e0-462c-ac5c-012b54c03339/en/
+
 <!--GitHub Section-->
 <!--
 ### GitHub статистика:
