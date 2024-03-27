@@ -30,25 +30,27 @@ Here are some ideas to get you started:
 <!--Skills Section-->
 ### Технологии
 <p align="left">
-	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/python-logo.png" alt="python" width="40" height="40" />&nbsp;
-	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/mysql.png" alt="Sql" width="40" height="40" />&nbsp;
-	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/git.svg" alt="Git" width="40" height="40" />&nbsp;
-	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/numpy.svg" alt="Numpy" width="40" height="40" />&nbsp;
-	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/pandas.svg" alt="Pandas" width="40" height="40" />&nbsp;	
-	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/pytorch.png" alt="PyTorch" width="110" height="35" />&nbsp;
-	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/scikit learn.png" alt="Scikit Learn" width="60" height="40" />&nbsp;
- 	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" />&nbsp;
-	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/jupyter.png" alt="Jupyter" width="40" height="40" />&nbsp;
-	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/airflow_transparent.png" alt="Airflow" width="40" height="40" />&nbsp;
-	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/docker-mark-blue.svg" alt="Docker" width="40" height="40" />&nbsp;
+    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/python-logo.png" alt="python" width="40" height="40" title="Python" />&nbsp;
+    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/mysql.png" alt="Sql" width="40" height="40" title="MySQL" />&nbsp;
+    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/git.svg" alt="Git" width="40" height="40" title="Git" />&nbsp;
+    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/numpy.svg" alt="Numpy" width="40" height="40" title="NumPy" />&nbsp;
+    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/pandas.svg" alt="Pandas" width="40" height="40" title="Pandas" />&nbsp;    
+    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/pytorch.png" alt="PyTorch" width="110" height="35" title="PyTorch" />&nbsp;
+    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/scikit learn.png" alt="Scikit Learn" width="60" height="40" title="scikit-learn" />&nbsp;
+    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" title="Matplotlib" />&nbsp;
+    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/jupyter.png" alt="Jupyter" width="40" height="40" title="Jupyter" />&nbsp;
+    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/airflow_transparent.png" alt="Airflow" width="40" height="40" title="Airflow" />&nbsp;
+    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/docker-mark-blue.svg" alt="Docker" width="40" height="40" title="Docker" />&nbsp;
 </p><br>
+
 
 ### Обучение
 
 <p align="left">
-	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/StartML KC.jpg" alt="StartML" width="419" height="296" />
-
-Сертификат доступен по ссылке https://lab.karpov.courses/certificate/7d067bd1-25e0-462c-ac5c-012b54c03339/en/
+    <a href="https://lab.karpov.courses/certificate/7d067bd1-25e0-462c-ac5c-012b54c03339/en/" title="Сертификат доступен по нажатию">
+        <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/StartML KC.jpg" alt="StartML" width="419" height="296" />
+    </a>
+</p>
 
 <!--GitHub Section-->
 <!--
