@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/docker-mark-blue.svg" alt="Docker" width="40" height="40" />&nbsp;
 </p><br>
 
+### Обучение
+
 <p align="left">
 	<img src="https://github.com/koryakovda/koryakovda/blob/main/icons/StartML KC.jpg" alt="StartML" width="419" height="296" />
 
