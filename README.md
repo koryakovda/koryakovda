@@ -27,10 +27,8 @@ Here are some ideas to get you started:
 
 - :seedling: Завершил курсы StartML от платформы KarpovCources (длительность 7 месяцев)
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Dmitrii_Koriakov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dmitriy_Koryakov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:koryakovda@gmail.com)
-
 <!--Skills Section-->
-### Технологии
+#### Технологии
 <p align="left">
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/python-logo.png" alt="python" width="40" height="40" title="Python" />&nbsp;
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/mysql.png" alt="Sql" width="40" height="40" title="MySQL" />&nbsp;
@@ -45,14 +43,21 @@ Here are some ideas to get you started:
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/docker-mark-blue.svg" alt="Docker" width="40" height="40" title="Docker" />&nbsp;
 </p><br>
 
+<!--Contact Section-->
+#### Как связаться со мной: 
 
-### Обучение
+[![Telegram Badge](https://img.shields.io/badge/-Dmitrii_Koriakov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dmitriy_Koryakov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:koryakovda@gmail.com)
+
+<!--Certificate Section-->
+#### Сертификаты
 
 <p align="left">
     <a href="https://lab.karpov.courses/certificate/7d067bd1-25e0-462c-ac5c-012b54c03339/en/" title="Сертификат доступен по нажатию">
         <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/StartML KC.jpg" alt="StartML" width="419" height="296" />
     </a>
 </p>
+
+
 
 <!--GitHub Section-->
 <!--
