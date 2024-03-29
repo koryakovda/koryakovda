@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 С начала 2023 года по март 2024 года я сосредоточился на изучении курса Start ML в Karpov Courses. Теперь, когда мое обучение на курсе завершено, я готов применить свои знания на практике и начать свою карьеру в области Data Science и Machine Learning. Я ищу возможность внести свой вклад в инновационные проекты и учиться в динамичной команде.
 
-- :brain:  Курсы coursera Machine Learning Specialization (длительность 1 месяц)
+- :mortar_board:  Курсы coursera Machine Learning Introduction (длительность 1.5 месяца)
 
-- :brain:  Курсы онлайн-университета GeekBrains по специальности DataScientist (длительность 2 года)
+- :brain:  Курсы онлайн-университета GeekBrains по специальности DataScientist (длительность 1.5 года)
 
 - :seedling: Завершил курсы StartML от платформы KarpovCources (длительность 7 месяцев)
 
