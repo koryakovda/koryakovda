@@ -41,10 +41,10 @@ Here are some ideas to get you started:
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/jupyter.png" alt="Jupyter" width="40" height="40" title="Jupyter" />&nbsp;
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/airflow_transparent.png" alt="Airflow" width="40" height="40" title="Airflow" />&nbsp;
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/docker-mark-blue.svg" alt="Docker" width="40" height="40" title="Docker" />&nbsp;
-</p><br>
+</p>
 
 <!--Contact Section-->
-#### Как связаться со мной: 
+#### Мои контакты: 
 
 [![Telegram Badge](https://img.shields.io/badge/-Dmitrii_Koriakov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dmitriy_Koryakov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:koryakovda@gmail.com)
 
