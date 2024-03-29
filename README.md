@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 
 С начала 2023 года по март 2024 года я сосредоточился на изучении курса Start ML в Karpov Courses. Теперь, когда мое обучение на курсе завершено, я готов применить свои знания на практике и начать свою карьеру в области Data Science и Machine Learning. Я ищу возможность внести свой вклад в инновационные проекты и учиться в динамичной команде.
 
-- :brain:  Проходил курсы онлайн-университета GeekBrains по специальности DataScientist
+- :brain:  Курсы coursera Machine Learning Specialization (длительность 1 месяц)
 
-- :seedling: Закончил курсы StartML от платформы KarpovCources
+- :brain:  Курсы онлайн-университета GeekBrains по специальности DataScientist (длительность 2 года)
+
+- :seedling: Завершил курсы StartML от платформы KarpovCources (длительность 7 месяцев)
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Dmitrii_Koriakov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dmitriy_Koryakov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:koryakovda@gmail.com)
 
