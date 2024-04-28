@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Привет👋, меня зовут Коряков Дмитрий!
+## Привет, меня зовут Коряков Дмитрий!
 <!--Intro Section-->
 <img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/intro.gif" width="30%" align="right">
 
