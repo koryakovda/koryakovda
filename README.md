@@ -40,21 +40,22 @@ Here are some ideas to get you started:
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/python-logo.png" alt="python" width="40" height="40" title="Python" />&nbsp;
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/numpy.svg" alt="Numpy" width="40" height="40" title="NumPy" />&nbsp;
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/pandas.svg" alt="Pandas" width="40" height="40" title="Pandas" />&nbsp;
-    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" title="Matplotlib" />&nbsp;
+    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="80" height="40" title="Matplotlib" />&nbsp;
+        <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/FastAPI.jpg" alt="FastAPI" width="100" height="40" title="FastAPI" />&nbsp;
 </p>
 
 #### Машинное обучение
 <p align="left">
-    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/pytorch.png" alt="PyTorch" width="100" height="30" title="PyTorch" />&nbsp;
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/scikit learn.png" alt="Scikit Learn" width="60" height="40" title="scikit-learn" />&nbsp;
+    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/pytorch.png" alt="PyTorch" width="100" height="30" title="PyTorch" />&nbsp;
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/jupyter.png" alt="Jupyter" width="40" height="40" title="Jupyter" />&nbsp;
-    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/CatBoost.png" alt="CatBoost" width="100" height="40" title="CatBoost" />&nbsp;
+    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/CatBoost.png" alt="CatBoost" width="100" height="45" title="CatBoost" />&nbsp;
 </p>
 
 #### Работа с БД
 <p align="left">
-    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/mysql.png" alt="Sql" width="40" height="40" title="MySQL" />&nbsp;
-    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/redash.png" alt="redash" width="80" height="40" title="redash" />&nbsp;
+    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/mysql.png" alt="Sql" width="60" height="60" title="MySQL" />&nbsp;
+    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/redash.png" alt="redash" width="100" height="50" title="redash" />&nbsp;
 </p>
 
 #### Дополнительные инструменты
@@ -62,7 +63,6 @@ Here are some ideas to get you started:
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/git.svg" alt="Git" width="40" height="40" title="Git" />&nbsp;
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/docker-mark-blue.svg" alt="Docker" width="40" height="40" title="Docker" />&nbsp;
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/airflow_transparent.png" alt="Airflow" width="40" height="40" title="Airflow" />&nbsp;
-    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/FastAPI.jpg" alt="FastAPI" width="100" height="40" title="FastAPI" />&nbsp;
 </p>
 
 <!--Contact Section-->
