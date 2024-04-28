@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 ## Привет👋, меня зовут Коряков Дмитрий!
 <!--Intro Section-->
 <img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/intro.gif" width="30%" align="right">
-Я - начинающий инженер по Data Science и Machine Learning. Мой путь в IT начался с интереса к машинному обучению, когда я впервые столкнулся с курсамипо Data Science на Coursera, помогая своему товарищу решить задачу использования покерной статистики. Это вводное знакомство с DS немедленно захватило меня, и я решил углубить свои знания, записавшись на курсы в онлайн-университете GeekBrains.
 
-Совмещение работы и интенсивного обучения оказалось непростым, и спустя полтора года я временно отошел от учебы. В течение последующих 4-5 месяцев я продолжал работать в нефтегазовой сфере, но вскоре осознал, что машинное обучение - это то, чем я хочу заниматься в жизни.
+Я - инженер по Data Science и Machine Learning. Мой интерес к IT начался еще в 2020 году, когда я начал изучать машинное обучение через курсы Data Science на платформе Coursera. Это произошло во время моего погружения в статистику, изучая её в контексте вероятности 'блефа' в покере.
 
-С начала 2023 года по март 2024 года я сосредоточился на изучении курса Start ML в Karpov Courses. Теперь, когда мое обучение на курсе завершено, я готов применить свои знания на практике и начать свою карьеру в области Data Science и Machine Learning.  
+Мир анализа данных сразу привлёк меня, и после первого опыта я сразу присоединился к курсу Data Science в онлайн-университете GeekBrains. Этот курс помог мне сильно расширить свои знания.
+
+Вскоре после этого, участвуя на работе в профессиональных соревнованиях по геонавигации, я обнаружил, что одним из участников соревнований была ML-модель. Это поразило меня, вдохновив ещё более глубоко погрузиться в эту область и вместе с тем осознать, что я хочу стать частью процесса разработки таких потрясающих алгоритмов!
+
+С сентября 2023 года по март 2024 года я активно изучал курс Start ML в Karpov Courses. Теперь, когда моё обучение на курсе завершено, я готов применить свои знания на практике и начать свою карьеру в области Data Science и Machine Learning.
+
 Моя цель - создавать решения, которые действительно приносят пользу. Я стремлюсь к возможности работать над классными проектами и развиваться в энергичной команде, чтобы мой вклад имел реальный эффект.
 
 - :mortar_board:  Курсы coursera Machine Learning Introduction (длительность 1.5 месяца)
@@ -29,19 +33,33 @@ Here are some ideas to get you started:
 - :seedling: Завершил курсы StartML от платформы KarpovCources (длительность 7 месяцев)
 
 <!--Skills Section-->
-#### Технологии
+## Технологии
+
+#### Python и библиотеки
 <p align="left">
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/python-logo.png" alt="python" width="40" height="40" title="Python" />&nbsp;
-    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/mysql.png" alt="Sql" width="40" height="40" title="MySQL" />&nbsp;
-    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/git.svg" alt="Git" width="40" height="40" title="Git" />&nbsp;
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/numpy.svg" alt="Numpy" width="40" height="40" title="NumPy" />&nbsp;
-    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/pandas.svg" alt="Pandas" width="40" height="40" title="Pandas" />&nbsp;    
+    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/pandas.svg" alt="Pandas" width="40" height="40" title="Pandas" />&nbsp;
+    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" title="Matplotlib" />&nbsp;
+</p>
+
+#### Машинное обучение
+<p align="left">
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/pytorch.png" alt="PyTorch" width="110" height="35" title="PyTorch" />&nbsp;
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/scikit learn.png" alt="Scikit Learn" width="60" height="40" title="scikit-learn" />&nbsp;
-    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" title="Matplotlib" />&nbsp;
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/jupyter.png" alt="Jupyter" width="40" height="40" title="Jupyter" />&nbsp;
-    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/airflow_transparent.png" alt="Airflow" width="40" height="40" title="Airflow" />&nbsp;
+</p>
+
+#### Работа с БД
+<p align="left">
+    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/mysql.png" alt="Sql" width="40" height="40" title="MySQL" />&nbsp;
+</p>
+
+#### Дополнительные инструменты
+<p align="left">
+    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/git.svg" alt="Git" width="40" height="40" title="Git" />&nbsp;
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/docker-mark-blue.svg" alt="Docker" width="40" height="40" title="Docker" />&nbsp;
+    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/airflow_transparent.png" alt="Airflow" width="40" height="40" title="Airflow" />&nbsp;
 </p>
 
 <!--Contact Section-->
