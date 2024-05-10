@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/numpy.svg" alt="Numpy" width="40" height="40" title="NumPy" />&nbsp;
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/pandas.svg" alt="Pandas" width="40" height="40" title="Pandas" />&nbsp;
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="80" height="40" title="Matplotlib" />&nbsp;
-        <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/FastAPI.jpg" alt="FastAPI" width="100" height="40" title="FastAPI" />&nbsp;
+    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/FastAPI.jpg" alt="FastAPI" width="100" height="40" title="FastAPI" />&nbsp;
 </p>
 
 #### Машинное обучение
@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 #### Работа с БД
 <p align="left">
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/mysql.png" alt="Sql" width="60" height="60" title="MySQL" />&nbsp;
+    <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/SQLAlchemy.png" alt="SQLAlchemy" width="80" height="25" title="SQLAlchemy" />&nbsp;
     <img src="https://github.com/koryakovda/koryakovda/blob/main/icons/redash.png" alt="redash" width="100" height="50" title="redash" />&nbsp;
 </p>
 
